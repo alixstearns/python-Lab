@@ -1,4 +1,4 @@
-try
+try:
  a = int(input("enter a number1:  ")) 
  b = int(input("enter a number2: "))
 
@@ -6,3 +6,4 @@ try
  print("Sum:", sum)
 except  ValueError:
  print('please enter a valid integer:')
+

@@ -1,0 +1,2 @@
+Python-jenkins
+requests
